@@ -1,2 +1,2 @@
 # Calculo_IMC
-Primeiros códigos utilizando a linguagem Pytho
+Primeiros códigos utilizando a linguagem Python
